@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BTIPlateDefinitions>
+  <BTIPlateDefinition Version="1.04">
+    <PlateInformation>
+      <Name>LEMOS Plate 2.0</Name>
+      <Manufacturer />
+      <CatalogueNumber />
+      <PlateType>Microplate</PlateType>
+      <SlideHolder>No</SlideHolder>
+      <LidDimensionsIncluded>Yes</LidDimensionsIncluded>
+      <BottomFocusRegionIncluded>No</BottomFocusRegionIncluded>
+      <LabwareDefinition>No</LabwareDefinition>
+    </PlateInformation>
+    <PlateDimensions>
+      <NumberOfRows>8</NumberOfRows>
+      <NumberOfColumns>6</NumberOfColumns>
+      <PlateWidth_Microns>85598</PlateWidth_Microns>
+      <PlateLength_Microns>127889</PlateLength_Microns>
+      <PlateHeight_Microns>17000</PlateHeight_Microns>
+      <PlateLidAdds_Microns>3500</PlateLidAdds_Microns>
+      <BottomElevation_Microns>7000</BottomElevation_Microns>
+      <StackedHeight_Microns>0</StackedHeight_Microns>
+      <WellShape>Circle</WellShape>
+      <WellDiameter_Microns>4500</WellDiameter_Microns>
+      <TopLeftY_Microns>11927</TopLeftY_Microns>
+      <TopLeftX_Microns>67703</TopLeftX_Microns>
+      <BottomRightY_Microns>74496</BottomRightY_Microns>
+      <BottomRightX_Microns>112888</BottomRightX_Microns>
+    </PlateDimensions>
+    <SlideHolderDimensions />
+    <LidDimensions>
+      <LongSideSkirtHeight_Microns>6100</LongSideSkirtHeight_Microns>
+      <ShortSideSkirtHeight_Microns>6100</ShortSideSkirtHeight_Microns>
+      <LidGripWidth_Microns>85550</LidGripWidth_Microns>
+      <PlateOnLidHeight_Microns>22240</PlateOnLidHeight_Microns>
+      <PlateGripWidth_Microns>82140</PlateGripWidth_Microns>
+      <StackedPlateWithLidHeight_Microns>15460</StackedPlateWithLidHeight_Microns>
+      <CloseDogAdjust_Microns>0</CloseDogAdjust_Microns>
+      <LidPointGripOffset_Microns>2000</LidPointGripOffset_Microns>
+      <PlatePointGripOverLongSideSkirt_Microns>2540</PlatePointGripOverLongSideSkirt_Microns>
+      <PointGripReleaseGap_Microns>1000</PointGripReleaseGap_Microns>
+      <PlateClearance_Microns>2540</PlateClearance_Microns>
+      <LooseGripOffset_Microns>380</LooseGripOffset_Microns>
+      <LidOverlap_Microns>0</LidOverlap_Microns>
+      <Reserve1>0</Reserve1>
+      <Reserve2>0</Reserve2>
+      <Reserve3>0</Reserve3>
+      <Reserve4>0</Reserve4>
+      <Reserve5>0</Reserve5>
+      <Reserve6>0</Reserve6>
+      <Reserve7>0</Reserve7>
+      <Reserve8>0</Reserve8>
+    </LidDimensions>
+    <BottomFocusRegion />
+    <Labware />
+  </BTIPlateDefinition>
+</BTIPlateDefinitions>
