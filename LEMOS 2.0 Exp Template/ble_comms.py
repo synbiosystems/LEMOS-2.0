@@ -1,3 +1,11 @@
+"""
+ble_comms.py
+------------
+Thin wrapper around pyserial for talking to the Arduino/BLE controller
+board over a serial (COM) port. The central Arduino runs the light/well
+control firmware and communicates wirelessly with the well plate hardware.
+"""
+
 import serial
 
 arduino = None
